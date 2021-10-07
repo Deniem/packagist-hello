@@ -1,5 +1,5 @@
 {
-    "name": "deniem/hello-world",
+    "name": "deniem/packagist-hello",
     "description": "Sample Hello-World App",
     "type": "lib",
     "license": "MIT",
