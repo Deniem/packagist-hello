@@ -1,10 +1,7 @@
 <?php
 
-namespace Deniem\HelloWorld;
+namespace HelloWorld;
 
-/**
- *
- */
 class SayHello
 {
     /**
