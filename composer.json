@@ -1,7 +1,7 @@
 {
     "name": "deniem/hello-world",
     "description": "Sample Hello-World App",
-    "type": "metapackage",
+    "type": "lib",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
