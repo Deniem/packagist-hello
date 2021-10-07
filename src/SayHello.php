@@ -1,6 +1,6 @@
 <?php
 
-namespace deniem\hello;
+namespace Deniem\Hello;
 
 class SayHello
 {
