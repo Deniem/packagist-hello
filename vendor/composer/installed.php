@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'b05e9a0a0bf068cf5fd5e979ce5f2b2241efed36',
     'name' => 'deniem/hello-world',
   ),
   'versions' => 
   array (
     'deniem/hello-world' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'b05e9a0a0bf068cf5fd5e979ce5f2b2241efed36',
     ),
   ),
 );
