@@ -1,0 +1,21 @@
+{
+    "name": "deniem/hello-world",
+    "description": "Sample Hello-World App",
+    "type": "metapackage",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Denis Kondrakov",
+            "email": "kondrakov.denis@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
